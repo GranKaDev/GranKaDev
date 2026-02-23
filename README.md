@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hola, soy GranKaDev
 
-<!--
-**GranKaDev/GranKaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de aplicaciones con formación en Desarrollo de Aplicaciones Multiplataforma.  
+Actualmente enfocado en mejorar mis bases en programación y crecer como profesional del software.
 
-Here are some ideas to get you started:
+### 🔭 En qué estoy trabajando
+- Mejora de lógica de programación y buenas prácticas
+- Desarrollo de aplicaciones con Flutter
+- Proyectos personales para ganar experiencia real
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente fortaleciendo
+- Principios SOLID
+- Patrones de diseño
+- Arquitectura de software
+
+### 🛠️ Tecnologías
+- Dart,
+- Flutter
+- Python (básico)
+- Git, GitHub, Docker (nivel inicial)
+
+### 🚀 Objetivo
+Construir una base sólida como desarrollador y evolucionar hacia proyectos más complejos, con visión a largo plazo.
+
